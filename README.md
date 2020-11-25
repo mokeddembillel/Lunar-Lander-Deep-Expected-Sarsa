@@ -1,9 +1,9 @@
 # Lunar-Lander-Deep-Expected-Sarsa
 This project is about using deep expected sarsa with tensorflow to solve the lunar lander problem with hyperparameter tuning and result's analysis
 
-#These points are important read them please:
+# These points are important read them please:
 
--all data and models are in results folder 
+- all data and models are in results folder 
 
 -folder tests is just for you if you want to test something
 
